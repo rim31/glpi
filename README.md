@@ -1,5 +1,9 @@
 # monitor
 
+![](public/screenshot.png)
+
+Test deploying vueJS webpage
+
 ```
 vue create monitor
 cd monitor
