@@ -1,0 +1,647 @@
+﻿"Nom";"Licences - Entité";"Éditeur";"Versions - Nom";"Versions - Système d'exploitation";"Licences - Nombre d'installations";"Licences - Nombre de licences";
+"{1FA41DBD-E8F8-46B1-A90C-1FA7E823DA58}";"Root entity";"PFU";"3.0.21.2
+3.1.10.5";"Windows";"2";"0";
+"{2759E245-A448-4E5D-8375-EACB1D94466C}";"Root entity";"PFU";"1.7.0.8";"Windows";"2";"0";
+"{8024DD25-C1A9-407F-A4C8-FA6DD5B035C8}";"Root entity";"PFU";"1.7.0.3";"Windows";"2";"0";
+"{f761359c-9ced-45ae-9a51-9d6605cd55c4}";"Root entity";"";"FSSH";"Windows";"1";"0";
+"1527c705-839a-4832-9118-54d4Bd6a0c89";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"3D Builder";"Root entity";"Microsoft Platform Extensions";"18.0.1931.0";"Windows";"1";"0";
+"3D Builder";"Root entity";"Microsoft Corporation";"18.0.1931.0";"Windows";"1";"0";
+"7-Zip 19.00 (x64)";"Root entity";"Igor Pavlov";"19.00";"Windows";"2";"0";
+"ACR_12_1_32";"Root entity";"Adobe Systems Incorporated";"";"Windows";"1";"0";
+"Adobe Acrobat DC";"Root entity";"Adobe Systems Incorporated";"20.006.20042";"Windows";"1";"0";
+"Adobe AIR";"Root entity";"Adobe";"32.0.0.125";"Windows";"1";"0";
+"Adobe AIR";"Root entity";"Adobe Systems Incorporated";"32.0.0.89";"Windows";"1";"0";
+"Adobe Flash Player 32 NPAPI";"Root entity";"Adobe";"32.0.0.403";"Windows";"1";"0";
+"Adobe Photoshop 2020";"Root entity";"Adobe Systems Incorporated";"21.0.2";"Windows";"1";"0";
+"Adobe Refresh Manager";"Root entity";"Adobe Systems Incorporated";"1.8.0";"Windows";"1";"0";
+"Adobe Shockwave Player 12.3";"Root entity";"Adobe Systems, Inc.";"12.3.4.204";"Windows";"1";"0";
+"Advanced IP Scanner 2.5";"Root entity";"Famatech";"2.5.3850";"Windows";"2";"0";
+"Advanced Port Scanner 2.5";"Root entity";"Famatech";"2.5.3869";"Windows";"1";"0";
+"AMD Problem Report Wizard";"Root entity";"Advanced Micro Devices, Inc.";"3.1.723";"Windows";"1";"0";
+"AMD Settings";"Root entity";"Advanced Micro Devices, Inc.";"2020.0131.1643.30093";"Windows";"1";"0";
+"AMD Software";"Root entity";"Advanced Micro Devices, Inc.";"19.40.01.39-200131a-351676C-RadeonProEnterprise";"Windows";"1";"0";
+"Angry IP Scanner";"Root entity";"Angry IP Scanner";"3.6.2";"Windows";"2";"0";
+"AnyDesk";"Root entity";"philandro Software GmbH";"ad 5.4.2";"Windows";"1";"0";
+"AOMEI Backupper";"Root entity";"";"";"Windows";"1";"0";
+"AOMEI Backupper Professional";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"0";"0";
+"AOMEI Backupper Professional Trial";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"1";"0";
+"AOMEI Backupper Technician Plus Trial";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"1";"0";
+"AOMEI OneKey";"Root entity";"";"";"Windows";"2";"0";
+"AOMEI OneKey Recovery 1.6.1";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"1";"0";
+"AOMEI OneKey Recovery 1.6.2";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"1";"0";
+"AOMEI Partition Assistant Standard Edition 8.4";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"1";"0";
+"AOMEI Partition Assistant Standard Edition 8.6";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"1";"0";
+"Aomei Partition Assistant_is1";"Root entity";"";"";"Windows";"2";"0";
+"AOMEI PXE Boot Free";"Root entity";"";"";"Windows";"1";"0";
+"AOMEI PXE Boot Free 1.5";"Root entity";"AOMEI Technology Co., Ltd.";"";"Windows";"1";"0";
+"Aperçu de code-barres Windows";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"App connector";"Root entity";"Microsoft Platform Extensions";"1.3.3.0";"Windows";"1";"0";
+"App connector";"Root entity";"Microsoft Corporation";"1.3.3.0";"Windows";"1";"0";
+"App Installer";"Root entity";"Microsoft Platform Extensions";"1.0.32912.0";"Windows";"1";"0";
+"App Installer";"Root entity";"Microsoft Corporation";"1.0.41821.0";"Windows";"1";"0";
+"Appel";"Root entity";"Microsoft Corporation";"1000.19041.1.0
+1000.18362.449.0";"Windows";"2";"0";
+"Apple Application Support (64 bits)";"Root entity";"Apple Inc.";"8.3
+8.0";"Windows";"2";"0";
+"Apple Mobile Device Support";"Root entity";"Apple Inc.";"13.0.0.41";"Windows";"1";"0";
+"Apple Software Update";"Root entity";"Apple Inc.";"2.6.3.1";"Windows";"1";"0";
+"Application de verrouillage pour accès affecté";"Root entity";"Microsoft Corporation";"1000.19041.1.0
+1000.18362.449.0";"Windows";"2";"0";
+"Artisteer 4";"Root entity";"Extensoft";"4.3";"Windows";"1";"0";
+"Assistant Mise à jour de Windows 10";"Root entity";"Microsoft Corporation";"1.4.9200.22925";"Windows";"1";"0";
+"AsyncTextService";"Root entity";"Microsoft Platform Extensions";"10.0.19041.1";"Windows";"1";"0";
+"AsyncTextService";"Root entity";"Microsoft Corporation";"10.0.18362.449";"Windows";"1";"0";
+"Attribute Changer 9.50a";"Root entity";"Romain Petges";"9.50a";"Windows";"1";"0";
+"AVS Video Editor 9.1.1";"Root entity";"Online Media Technologies Ltd.";"9.1.1.336";"Windows";"1";"0";
+"balenaEtcher 1.5.50";"Root entity";"Balena Inc.";"1.5.50";"Windows";"1";"0";
+"Batch Image Manipulation Plugin for GIMP";"Root entity";"Alessandro Francesconi";"2.0";"Windows";"1";"0";
+"Bitwarden";"Root entity";"Bitwarden Inc.";"1.19.0
+1.20.0";"Windows";"1";"0";
+"Bitwarden";"Root entity";"8bit Solutions LLC";"1.16.6";"Windows";"2";"0";
+"Boîte de dialogue Ajouter des suggestions de dossier";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Boîte de dialogue d'informations d’identification";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Bonjour";"Root entity";"Apple Inc.";"3.1.0.1
+3.0.0.10";"Windows";"2";"0";
+"Broadcom Bluetooth Drivers";"Root entity";"Broadcom Corporation";"12.0.1.695";"Windows";"1";"0";
+"CapturePicker";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"CCleaner";"Root entity";"Piriform";"5.65
+5.63";"Windows";"2";"0";
+"CCXP_3_3_0_32";"Root entity";"Adobe Systems Incorporated";"";"Windows";"1";"0";
+"Client Microsoft Edge DevTools";"Root entity";"Microsoft Platform Extensions";"1000.19041.1.0";"Windows";"1";"0";
+"Client Microsoft Edge DevTools";"Root entity";"Microsoft Corporation";"1000.18362.449.0";"Windows";"1";"0";
+"COCM_1_0_32";"Root entity";"Adobe Systems Incorporated";"";"Windows";"1";"0";
+"Compte professionnel ou scolaire";"Root entity";"Microsoft Corporation";"1000.19041.1.0
+1000.18362.449.0";"Windows";"2";"0";
+"ConfigTool 4.05.0";"Root entity";"";"4.05.0";"Windows";"2";"0";
+"Configuration de Windows Hello";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Contenu Microsoft";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Contrôle visuel";"Root entity";"Microsoft Platform Extensions";"10.0.19041.1";"Windows";"1";"0";
+"COPS_1_0_32";"Root entity";"Adobe Systems Incorporated";"";"Windows";"1";"0";
+"CORE_1_0_32";"Root entity";"Adobe Systems Incorporated";"";"Windows";"1";"0";
+"CorelVHS3X64";"Root entity";"Corel";"1.06.0000";"Windows";"1";"0";
+"CORG_1_1_32";"Root entity";"Adobe Systems Incorporated";"";"Windows";"1";"0";
+"Cortana";"Root entity";"Microsoft Platform Extensions";"2.2007.9736.0
+2.2007.24723.0";"Windows";"1";"0";
+"CrystalDiskInfo 8.4.0";"Root entity";"Crystal Dew World";"8.4.0";"Windows";"1";"0";
+"CrystalDiskInfo 8.4.2";"Root entity";"Crystal Dew World";"8.4.2";"Windows";"1";"0";
+"DAEMON Tools Lite";"Root entity";"Disc Soft Ltd";"10.12.0.1226
+10.11.0.0948";"Windows";"2";"0";
+"Dazzle Video Capture DVC100 X64 Driver 1.07";"Root entity";"Pinnacle";"1.07.0000";"Windows";"1";"0";
+"Débit de la connexion réseau";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Definition Update for Microsoft Office 2013 (KB3115404) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Device Manager NX Lite";"Root entity";"Ricoh Company, Ltd.";"DL01.01.02-0504";"Windows";"1";"0";
+"Device Software Manager 2.12.0.0";"Root entity";"Ricoh Company, Ltd.";"2.12.0.0";"Windows";"1";"0";
+"DisplayLink Core Software";"Root entity";"DisplayLink Corp.";"7.9.296.0";"Windows";"1";"0";
+"Domotz Agent";"Root entity";"";"";"Windows";"0";"0";
+"dr.fone toolkit pour Android (Version 8.3.3)";"Root entity";"Wondershare Technology Co.,Ltd.";"8.3.3.64";"Windows";"1";"0";
+"dr.fone toolkit pour iOS (Version 8.5.0)";"Root entity";"Wondershare Technology Co.,Ltd.";"8.5.0.54";"Windows";"1";"0";
+"DriversCloud.com (64 bits)";"Root entity";"Cybelsoft";"10.0.11.0";"Windows";"1";"0";
+"DYMO Label";"Root entity";"Newell Rubbermaid";"8.7.2.45959";"Windows";"1";"0";
+"E-mail et comptes";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"EcoUpdater version 1.1.3";"Root entity";"Legrand";"1.1.3";"Windows";"1";"0";
+"Écran de verrouillage par défaut de Windows";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Etcher 1.3.1 (only current user)";"Root entity";"Resin Inc.";"1.3.1";"Windows";"1";"0";
+"Evernote v. 6.24.2";"Root entity";"Evernote Corp.";"6.24.2.8919";"Windows";"1";"0";
+"Examen";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Expérience Windows Shell";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Explorateur de fichiers";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Extensions d'image HEIF";"Root entity";"Microsoft Platform Extensions";"1.0.31572.0";"Windows";"1";"0";
+"Extensions d'image HEIF";"Root entity";"Microsoft Corporation";"1.0.31572.0";"Windows";"1";"0";
+"Extensions d'image Webp";"Root entity";"Microsoft Platform Extensions";"1.0.31251.0";"Windows";"1";"0";
+"Extensions d'image Webp";"Root entity";"Microsoft Corporation";"1.0.31251.0";"Windows";"1";"0";
+"Extensions vidéo VP9";"Root entity";"Microsoft Platform Extensions";"1.0.31471.0";"Windows";"1";"0";
+"Extensions vidéo VP9";"Root entity";"Microsoft Corporation";"1.0.31471.0";"Windows";"1";"0";
+"Eye Control";"Root entity";"Microsoft Corporation";"10.0.18362.449";"Windows";"1";"0";
+"Feedback Hub";"Root entity";"Microsoft Platform Extensions";"1.1907.3152.0";"Windows";"1";"0";
+"Feedback Hub";"Root entity";"Microsoft Corporation";"1.2003.1472.0";"Windows";"1";"0";
+"Flux du portail captif";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Fonctionnalités Famille Microsoft";"Root entity";"Microsoft Corporation";"1000.19041.1.0
+1000.18362.449.0";"Windows";"2";"0";
+"Foxit Reader";"Root entity";"Foxit Software Inc.";"9.6.0.25114";"Windows";"1";"0";
+"FreeCommander XE";"Root entity";"Marek Jasinski";"";"Windows";"1";"0";
+"FusionInventory Agent 2.5.2 (x64 edition)";"Root entity";"FusionInventory Team";"2.5.2";"Windows";"2";"0";
+"GeoGebra Math Apps";"Root entity";"International GeoGebra Institute";"6.0.353";"Windows";"1";"0";
+"Get Help";"Root entity";"Microsoft Platform Extensions";"10.2004.31291.0";"Windows";"1";"0";
+"Get Help";"Root entity";"Microsoft Corporation";"10.2004.31291.0";"Windows";"1";"0";
+"GIMP 2.10.12";"Root entity";"The GIMP Team";"2.10.12";"Windows";"1";"0";
+"GIMP 2.10.18";"Root entity";"The GIMP Team";"2.10.18";"Windows";"1";"0";
+"GlobalScan NX Server Edition";"Root entity";"RICOH";"2.5.6.0";"Windows";"1";"0";
+"Google Chrome";"Root entity";"Google LLC";"84.0.4147.89
+84.0.4147.105";"Windows";"1";"0";
+"Google Chrome";"Root entity";"Google, Inc.";"84.0.4147.89
+84.0.4147.105";"Windows";"1";"0";
+"Google Earth Pro";"Root entity";"Google";"7.3.3.7699";"Windows";"1";"0";
+"Google Update Helper";"Root entity";"Google LLC";"1.3.35.451";"Windows";"2";"0";
+"GoPro Quik";"Root entity";"GoPro, Inc.";"0.1.841
+2.6.2.841";"Windows";"2";"0";
+"GoPro VR Player 3.0";"Root entity";"GoPro";"V3.0.5";"Windows";"1";"0";
+"Groove Music";"Root entity";"Microsoft Platform Extensions";"10.20032.12611.0";"Windows";"1";"0";
+"Groove Music";"Root entity";"Microsoft Corporation";"10.20022.11011.0";"Windows";"1";"0";
+"Hewlett-Packard ACLM.NET v1.2.2.3";"Root entity";"Hewlett-Packard Company";"1.00.0000";"Windows";"1";"0";
+"HiSuite";"Root entity";"Huawei Technologies Co.,Ltd";"32.410.08.00.06";"Windows";"1";"0";
+"HiSuite";"Root entity";"";"";"Windows";"1";"0";
+"HP Customer Experience Enhancements";"Root entity";"HP Development Company, L.P.";"6.0.12.1";"Windows";"1";"0";
+"HP Hotkey Support";"Root entity";"HP Inc.";"6.2.50.1";"Windows";"1";"0";
+"HP Hotkey Support";"Root entity";"Hewlett-Packard Company";"5.0.28.1";"Windows";"1";"0";
+"HP Port Replicator Software Installer";"Root entity";"HP";"1.3.46";"Windows";"1";"0";
+"HP Support Assistant";"Root entity";"HP Inc.";"8.8.26.13
+8.8.28.13";"Windows";"1";"0";
+"HP Support Assistant";"Root entity";"Hewlett-Packard Company";"7.7.34.34";"Windows";"1";"0";
+"HP Support Solutions Framework";"Root entity";"HP Inc.";"12.16.22.11
+12.17.27.5";"Windows";"2";"0";
+"HP USB Port Replicator";"Root entity";"Hewlett-Packard";"7.9.339.0";"Windows";"1";"0";
+"HP Wireless Button Driver";"Root entity";"Hewlett-Packard Company";"1.1.5.1";"Windows";"1";"0";
+"illiPro";"Root entity";"Legrand";"20.50";"Windows";"1";"0";
+"INDEX EDUCATION - Client PRONOTE 2019 - 64bit";"Root entity";"Index Education";"0.2.10";"Windows";"1";"0";
+"InstallShield_{92FD45E2-3662-46F0-BE79-1BDAFADB395A}";"Root entity";"";"";"Windows";"1";"0";
+"Intel(R) Chipset Device Software";"Root entity";"Intel Corporation";"10.1.1.40";"Windows";"1";"0";
+"Intel(R) Management Engine Components";"Root entity";"Intel Corporation";"11.0.11.1193
+11.6.0.1045
+1.0.0.0";"Windows";"3";"0";
+"Intel(R) ME UninstallLegacy";"Root entity";"Intel Corporation";"1.0.1.0";"Windows";"1";"0";
+"Intel(R) PRO/Wireless Driver";"Root entity";"Intel Corporation";"21.10.0001.1488";"Windows";"1";"0";
+"Intel(R) Processor Graphics";"Root entity";"Intel Corporation";"20.19.15.4835";"Windows";"1";"0";
+"Intel(R) Rapid Storage Technology";"Root entity";"Intel Corporation";"14.8.16.1063";"Windows";"1";"0";
+"Intel(R) Wireless Bluetooth(R)";"Root entity";"Intel Corporation";"20.110.0.3";"Windows";"1";"0";
+"Intel® Trusted Connect Service Client";"Root entity";"Intel Corporation";"1.27.757.1
+1.44.398.0";"Windows";"2";"0";
+"Internet Explorer";"Root entity";"Microsoft Corporation";"11.388.19041.0
+11.900.18362.0
+11.959.18362.0";"Windows";"2";"0";
+"Internet Explorer (64bit)";"Root entity";"Microsoft Corporation";"11.388.19041.0
+11.900.18362.0
+11.959.18362.0";"Windows";"2";"0";
+"IP Video System Design Tool 10 v.10.0.0.1824";"Root entity";"www.jvsg.com";"";"Windows";"1";"0";
+"iTunes";"Root entity";"Apple Inc.";"12.10.4.2";"Windows";"1";"0";
+"Java 8 Update 241";"Root entity";"Oracle Corporation";"8.0.2410.7";"Windows";"1";"0";
+"Java 8 Update 241 (64-bit)";"Root entity";"Oracle Corporation";"8.0.2410.7";"Windows";"1";"0";
+"Java Auto Updater";"Root entity";"Oracle Corporation";"2.8.241.7";"Windows";"1";"0";
+"KB4515383";"Root entity";"";"";"Windows";"1";"0";
+"KB4515530";"Root entity";"";"";"Windows";"1";"0";
+"KB4516115";"Root entity";"";"";"Windows";"1";"0";
+"KB4517245";"Root entity";"";"";"Windows";"1";"0";
+"KB4521863";"Root entity";"";"";"Windows";"1";"0";
+"KB4524244";"Root entity";"";"";"Windows";"1";"0";
+"KB4524569";"Root entity";"";"";"Windows";"1";"0";
+"KB4528759";"Root entity";"";"";"Windows";"1";"0";
+"KB4537759";"Root entity";"";"";"Windows";"1";"0";
+"KB4538674";"Root entity";"";"";"Windows";"1";"0";
+"KB4541338";"Root entity";"";"";"Windows";"1";"0";
+"KB4552152";"Root entity";"";"";"Windows";"1";"0";
+"KB4559309";"Root entity";"";"";"Windows";"2";"0";
+"KB4560366";"Root entity";"";"";"Windows";"1";"0";
+"KB4560959";"Root entity";"";"";"Windows";"1";"0";
+"KB4561600";"Root entity";"";"";"Windows";"2";"0";
+"KB4565483";"Root entity";"";"";"Windows";"1";"0";
+"KB4565503";"Root entity";"";"";"Windows";"1";"0";
+"KB4565554";"Root entity";"";"";"Windows";"1";"0";
+"KB4565627";"Root entity";"";"";"Windows";"1";"0";
+"KB4565633";"Root entity";"";"";"Windows";"1";"0";
+"KB4566785";"Root entity";"";"";"Windows";"1";"0";
+"KeePass Password Safe 2.43";"Root entity";"Dominik Reichl";"2.43";"Windows";"1";"0";
+"Kit d’évaluation et de déploiement";"Root entity";"Microsoft Corporation";"8.59.25584";"Windows";"1";"0";
+"Kits Configuration Installer";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"LAN Speed Test version 4.4.0";"Root entity";"Totusoft";"4.4.0";"Windows";"1";"0";
+"Launchy 2.5";"Root entity";"Code Jelly";"";"Windows";"1";"0";
+"LenovoEMC Storage Manager";"Root entity";"LenovoEMC";"1.4.14.34018";"Windows";"2";"0";
+"LibreOffice 6.1.4.2";"Root entity";"The Document Foundation";"6.1.4.2";"Windows";"1";"0";
+"LibreOffice 6.3.4.2";"Root entity";"The Document Foundation";"6.3.4.2";"Windows";"1";"0";
+"LinuxLive USB Creator";"Root entity";"Thibaut Lauziere";"2.9";"Windows";"1";"0";
+"Logiciel Intel® PROSet/Wireless";"Root entity";"Intel Corporation";"21.10.1";"Windows";"1";"0";
+"Logiciel pour périphérique à chipset Intel®";"Root entity";"Intel(R) Corporation";"10.1.1.40";"Windows";"1";"0";
+"Logitech Options";"Root entity";"Logitech";"8.20.329
+8.0.863";"Windows";"2";"0";
+"Mail and Calendar";"Root entity";"Microsoft Platform Extensions";"16005.12827.20560.0
+16005.13110.41006.0";"Windows";"1";"0";
+"Mail and Calendar";"Root entity";"Microsoft Corporation";"16005.13110.41006.0";"Windows";"1";"0";
+"McAfee WebAdvisor";"Root entity";"McAfee, LLC";"4.1.1.123
+4.1.1.133
+4.1.1.140";"Windows";"1";"0";
+"Mediatek Bluetooth";"Root entity";"Mediatek";"11.0.761.0";"Windows";"1";"0";
+"Microsoft .Net Native Framework Package 1.6";"Root entity";"Microsoft Corporation";"1.6.27413.0";"Windows";"1";"0";
+"Microsoft .Net Native Framework Package 1.7";"Root entity";"Microsoft Platform Extensions";"1.7.27413.0";"Windows";"1";"0";
+"Microsoft .Net Native Framework Package 1.7";"Root entity";"Microsoft Corporation";"1.7.27413.0";"Windows";"1";"0";
+"Microsoft .Net Native Framework Package 2.1";"Root entity";"Microsoft Corporation";"2.1.27427.0";"Windows";"1";"0";
+"Microsoft .Net Native Framework Package 2.2";"Root entity";"Microsoft Platform Extensions";"2.2.27912.0";"Windows";"1";"0";
+"Microsoft .Net Native Framework Package 2.2";"Root entity";"Microsoft Corporation";"2.2.27912.0";"Windows";"1";"0";
+"Microsoft .Net Native Runtime Package 1.7";"Root entity";"Microsoft Platform Extensions";"1.7.27422.0";"Windows";"1";"0";
+"Microsoft .Net Native Runtime Package 1.7";"Root entity";"Microsoft Corporation";"1.7.25531.0
+1.7.27422.0";"Windows";"2";"0";
+"Microsoft .Net Native Runtime Package 2.1";"Root entity";"Microsoft Corporation";"2.1.26424.0";"Windows";"1";"0";
+"Microsoft .Net Native Runtime Package 2.2";"Root entity";"Microsoft Platform Extensions";"2.2.28604.0";"Windows";"1";"0";
+"Microsoft .Net Native Runtime Package 2.2";"Root entity";"Microsoft Corporation";"2.2.27328.0
+2.2.28604.0";"Windows";"2";"0";
+"Microsoft Access MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Advertising SDK for XAML";"Root entity";"Microsoft Platform Extensions";"10.1811.1.0";"Windows";"1";"0";
+"Microsoft Advertising SDK for XAML";"Root entity";"Microsoft Corporation";"10.1811.1.0";"Windows";"1";"0";
+"Microsoft DCF MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Edge";"Root entity";"Microsoft Corporation";"84.0.522.40
+84.0.522.44
+44.18362.449.0
+84.0.522.49
+84.0.522.50
+81.0.416.88
+84.0.522.52";"Windows";"3";"0";
+"Microsoft Edge";"Root entity";"Microsoft Platform Extensions";"44.19041.1.0
+84.0.522.40
+84.0.522.44
+84.0.522.49
+84.0.522.50
+84.0.522.52";"Windows";"2";"0";
+"Microsoft Edge Update";"Root entity";"";"1.3.133.5
+1.3.127.15";"Windows";"2";"0";
+"Microsoft Engagement Framework";"Root entity";"Microsoft Corporation";"10.0.19011.0";"Windows";"1";"0";
+"Microsoft Excel MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Groove MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft InfoPath MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Lync MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Messaging";"Root entity";"Microsoft Platform Extensions";"4.1901.10241.1000";"Windows";"1";"0";
+"Microsoft Messaging";"Root entity";"Microsoft Corporation";"4.1901.10241.1000";"Windows";"1";"0";
+"Microsoft News: les actualités à ne pas manquer";"Root entity";"Microsoft Platform Extensions";"4.44.22042.0
+4.45.22053.0";"Windows";"1";"0";
+"Microsoft News: les actualités à ne pas manquer";"Root entity";"Microsoft Corporation";"4.44.22042.0";"Windows";"1";"0";
+"Microsoft Office 32-bit Components 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Korrekturhilfen 2013 - Deutsch";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office OSM MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office OSM UX MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Professional Plus 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Professional Plus 2016 - en-us";"Root entity";"Microsoft Corporation";"16.0.13001.20384";"Windows";"1";"0";
+"Microsoft Office Professionnel Plus 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Professionnel Plus 2016 - fr-fr";"Root entity";"Microsoft Corporation";"16.0.13001.20384";"Windows";"1";"0";
+"Microsoft Office Proofing (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Proofing Tools 2013 - ????? ???????";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Proofing Tools 2013 - English";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Proofing Tools 2013 - Español";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Proofing Tools 2013 - Nederlands";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Shared 32-bit MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Office Shared MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft OneDrive";"Root entity";"Microsoft Corporation";"20.124.0621.0006";"Windows";"1";"0";
+"Microsoft OneNote MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Outlook MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Pay";"Root entity";"Microsoft Platform Extensions";"2.4.18324.0";"Windows";"1";"0";
+"Microsoft Pay";"Root entity";"Microsoft Corporation";"2.4.18324.0";"Windows";"1";"0";
+"Microsoft People";"Root entity";"Microsoft Platform Extensions";"10.1909.10841.0";"Windows";"1";"0";
+"Microsoft People";"Root entity";"Microsoft Corporation";"10.1909.10841.0";"Windows";"1";"0";
+"Microsoft Photos";"Root entity";"Microsoft Platform Extensions";"2020.20070.10002.0";"Windows";"1";"0";
+"Microsoft Photos";"Root entity";"Microsoft Corporation";"2020.20070.10002.0";"Windows";"1";"0";
+"Microsoft PowerPoint MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Project Professional 2016 - en-us";"Root entity";"Microsoft Corporation";"16.0.13001.20384";"Windows";"1";"0";
+"Microsoft Project Professionnel 2016 - fr-fr";"Root entity";"Microsoft Corporation";"16.0.13001.20384";"Windows";"1";"0";
+"Microsoft Publisher MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft Silverlight";"Root entity";"Microsoft Corporation";"5.1.50918.0";"Windows";"2";"0";
+"Microsoft Solitaire Collection";"Root entity";"Microsoft Platform Extensions";"4.7.7162.0";"Windows";"1";"0";
+"Microsoft Solitaire Collection";"Root entity";"Microsoft Corporation";"4.7.7162.0";"Windows";"1";"0";
+"Microsoft Sticky Notes";"Root entity";"Microsoft Platform Extensions";"3.7.140.0
+3.7.142.0";"Windows";"1";"0";
+"Microsoft Sticky Notes";"Root entity";"Microsoft Corporation";"3.7.142.0";"Windows";"1";"0";
+"Microsoft Store";"Root entity";"Microsoft Platform Extensions";"12007.1001.2.0";"Windows";"1";"0";
+"Microsoft Store";"Root entity";"Microsoft Corporation";"12007.1001.2.0";"Windows";"1";"0";
+"Microsoft Tips";"Root entity";"Microsoft Platform Extensions";"9.8.31681.0";"Windows";"1";"0";
+"Microsoft Tips";"Root entity";"Microsoft Corporation";"9.8.31681.0";"Windows";"1";"0";
+"Microsoft VC++ redistributables repacked.";"Root entity";"Intel Corporation";"12.0.0.0";"Windows";"1";"0";
+"Microsoft Virtual Machine Converter";"Root entity";"Microsoft Corporation";"3.1.0.0";"Windows";"2";"0";
+"Microsoft Visio - en-us";"Root entity";"Microsoft Corporation";"16.0.13001.20384";"Windows";"1";"0";
+"Microsoft Visio - fr-fr";"Root entity";"Microsoft Corporation";"16.0.13001.20384";"Windows";"1";"0";
+"Microsoft Visual C++ 2005 Redistributable";"Root entity";"Microsoft Corporation";"8.0.61001
+8.0.56336
+8.0.59193";"Windows";"4";"0";
+"Microsoft Visual C++ 2005 Redistributable (x64)";"Root entity";"Microsoft Corporation";"8.0.61000";"Windows";"1";"0";
+"Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022";"Root entity";"Microsoft Corporation";"9.0.21022";"Windows";"2";"0";
+"Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729";"Root entity";"Microsoft Corporation";"9.0.30729";"Windows";"1";"0";
+"Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17";"Root entity";"Microsoft Corporation";"9.0.30729";"Windows";"1";"0";
+"Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148";"Root entity";"Microsoft Corporation";"9.0.30729.4148";"Windows";"1";"0";
+"Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161";"Root entity";"Microsoft Corporation";"9.0.30729.6161";"Windows";"2";"0";
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022";"Root entity";"Microsoft Corporation";"9.0.21022";"Windows";"1";"0";
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729";"Root entity";"Microsoft Corporation";"9.0.30729";"Windows";"1";"0";
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17";"Root entity";"Microsoft Corporation";"9.0.30729";"Windows";"2";"0";
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148";"Root entity";"Microsoft Corporation";"9.0.30729.4148";"Windows";"1";"0";
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161";"Root entity";"Microsoft Corporation";"9.0.30729.6161";"Windows";"1";"0";
+"Microsoft Visual C++ 2010 x64 Redistributable - 10.0.40219";"Root entity";"Microsoft Corporation";"10.0.40219";"Windows";"2";"0";
+"Microsoft Visual C++ 2010 x86 Redistributable - 10.0.40219";"Root entity";"Microsoft Corporation";"10.0.40219";"Windows";"2";"0";
+"Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030";"Root entity";"Microsoft Corporation";"11.0.61030.0";"Windows";"2";"0";
+"Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030";"Root entity";"Microsoft Corporation";"11.0.61030.0";"Windows";"2";"0";
+"Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030";"Root entity";"Microsoft Corporation";"11.0.61030";"Windows";"2";"0";
+"Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030";"Root entity";"Microsoft Corporation";"11.0.61030";"Windows";"2";"0";
+"Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030";"Root entity";"Microsoft Corporation";"11.0.61030";"Windows";"2";"0";
+"Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030";"Root entity";"Microsoft Corporation";"11.0.61030";"Windows";"2";"0";
+"Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501";"Root entity";"Microsoft Corporation";"12.0.30501.0";"Windows";"1";"0";
+"Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660";"Root entity";"Microsoft Corporation";"12.0.40660.0";"Windows";"2";"0";
+"Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664";"Root entity";"Microsoft Corporation";"12.0.40664.0";"Windows";"1";"0";
+"Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005";"Root entity";"Microsoft Corporation";"12.0.21005.1";"Windows";"1";"0";
+"Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501";"Root entity";"Microsoft Corporation";"12.0.30501.0";"Windows";"2";"0";
+"Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660";"Root entity";"Microsoft Corporation";"12.0.40660.0";"Windows";"2";"0";
+"Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660";"Root entity";"Microsoft Corporation";"12.0.40660";"Windows";"1";"0";
+"Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664";"Root entity";"Microsoft Corporation";"12.0.40664";"Windows";"1";"0";
+"Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660";"Root entity";"Microsoft Corporation";"12.0.40660";"Windows";"1";"0";
+"Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664";"Root entity";"Microsoft Corporation";"12.0.40664";"Windows";"1";"0";
+"Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660";"Root entity";"Microsoft Corporation";"12.0.40660";"Windows";"2";"0";
+"Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660";"Root entity";"Microsoft Corporation";"12.0.40660";"Windows";"2";"0";
+"Microsoft Visual C++ 2015 UWP Desktop Runtime Package";"Root entity";"Microsoft Platform Extensions";"14.0.29016.0";"Windows";"1";"0";
+"Microsoft Visual C++ 2015 UWP Desktop Runtime Package";"Root entity";"Microsoft Corporation";"14.0.27810.0
+14.0.29016.0";"Windows";"2";"0";
+"Microsoft Visual C++ 2015 UWP Runtime Package";"Root entity";"Microsoft Platform Extensions";"14.0.27810.0";"Windows";"1";"0";
+"Microsoft Visual C++ 2015 UWP Runtime Package";"Root entity";"Microsoft Corporation";"14.0.27810.0";"Windows";"1";"0";
+"Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.20.27508";"Root entity";"Microsoft Corporation";"14.20.27508.1";"Windows";"2";"0";
+"Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.20.27508";"Root entity";"Microsoft Corporation";"14.20.27508.1";"Windows";"2";"0";
+"Microsoft Visual C++ 2019 X64 Additional Runtime - 14.20.27508";"Root entity";"Microsoft Corporation";"14.20.27508";"Windows";"2";"0";
+"Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.20.27508";"Root entity";"Microsoft Corporation";"14.20.27508";"Windows";"2";"0";
+"Microsoft Visual C++ 2019 X86 Additional Runtime - 14.20.27508";"Root entity";"Microsoft Corporation";"14.20.27508";"Windows";"2";"0";
+"Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.20.27508";"Root entity";"Microsoft Corporation";"14.20.27508";"Windows";"2";"0";
+"Microsoft Visual C++ Runtime Package";"Root entity";"Microsoft Corporation";"12.0.21005.1";"Windows";"1";"0";
+"Microsoft Visual Studio 2010 Tools for Office Runtime (x64)";"Root entity";"Microsoft Corporation";"10.0.50903
+10.0.50908";"Windows";"2";"0";
+"Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - FRA";"Root entity";"Microsoft Corporation";"10.0.50903";"Windows";"1";"0";
+"Microsoft Visual Studio Code";"Root entity";"Microsoft Corporation";"1.45.1
+1.41.1
+1.47.3";"Windows";"2";"0";
+"Microsoft Windows 10 Professionnel";"Root entity";"";"10.0.19041
+10.0.18363";"Windows";"2";"0";
+"Microsoft Windows StartMenuExperienceHost";"Root entity";"Microsoft Corporation";"10.0.19041.388
+10.0.18362.449";"Windows";"2";"0";
+"Microsoft Word MUI (French) 2013";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.0";"Root entity";"Microsoft Platform Extensions";"2.1810.18004.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.0";"Root entity";"Microsoft Corporation";"2.1810.18004.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.1";"Root entity";"Microsoft Platform Extensions";"2.11906.6001.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.1";"Root entity";"Microsoft Corporation";"2.11906.6001.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.2";"Root entity";"Microsoft Platform Extensions";"2.21909.17002.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.2";"Root entity";"Microsoft Corporation";"2.21909.17002.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.3";"Root entity";"Microsoft Platform Extensions";"2.32002.13001.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.3";"Root entity";"Microsoft Corporation";"2.32002.13001.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.4";"Root entity";"Microsoft Platform Extensions";"2.42005.18002.0";"Windows";"1";"0";
+"Microsoft.UI.Xaml.2.4";"Root entity";"Microsoft Corporation";"2.42005.18002.0";"Windows";"1";"0";
+"MID109 UPDATE";"Root entity";"TAKARA";"1.0";"Windows";"1";"0";
+"Minimal ADB and Fastboot version 1.4.3";"Root entity";"Samuel Rodberg";"1.4.3";"Windows";"1";"0";
+"Mise à jour automatique";"Root entity";"Index Education";"1.0.4";"Windows";"1";"0";
+"Mixed Reality Portal";"Root entity";"Microsoft Platform Extensions";"2000.20041.1212.0";"Windows";"1";"0";
+"Mixed Reality Portal";"Root entity";"Microsoft Corporation";"2000.20071.1133.0";"Windows";"1";"0";
+"Mobile Plans";"Root entity";"Microsoft Platform Extensions";"5.2006.1691.0";"Windows";"1";"0";
+"Mobile Plans";"Root entity";"Microsoft Corporation";"5.2006.1691.0";"Windows";"1";"0";
+"Module d'expérience locale français (France)";"Root entity";"Microsoft Platform Extensions";"19041.3.8.0";"Windows";"1";"0";
+"Module d'expérience locale français (France)";"Root entity";"Microsoft Corporation";"18362.26.83.0";"Windows";"1";"0";
+"Module linguistique Microsoft Visual Studio 2010 Tools pour Office Runtime (x64) - FRA";"Root entity";"Microsoft Corporation";"10.0.50903";"Windows";"1";"0";
+"Movies &amp; TV";"Root entity";"Microsoft Platform Extensions";"10.20032.16211.0";"Windows";"1";"0";
+"Movies &amp; TV";"Root entity";"Microsoft Corporation";"10.20032.16211.0";"Windows";"1";"0";
+"Mozilla Firefox 76.0.1 (x64 fr)";"Root entity";"Mozilla";"76.0.1";"Windows";"1";"0";
+"Mozilla Firefox 77.0.1 (x64 fr)";"Root entity";"Mozilla";"77.0.1";"Windows";"1";"0";
+"Mozilla Maintenance Service";"Root entity";"Mozilla";"75.0
+68.0";"Windows";"2";"0";
+"Mozilla Thunderbird 68.10.0 (x64 fr)";"Root entity";"Mozilla";"68.10.0";"Windows";"1";"0";
+"Mozilla Thunderbird 68.8.1 (x86 fr)";"Root entity";"Mozilla";"68.8.1";"Windows";"1";"0";
+"MSN Finance";"Root entity";"Microsoft Platform Extensions";"4.36.20714.0";"Windows";"1";"0";
+"MSN Finance";"Root entity";"Microsoft Corporation";"4.36.20714.0";"Windows";"1";"0";
+"MSN Météo";"Root entity";"Microsoft Platform Extensions";"4.36.20714.0";"Windows";"1";"0";
+"MSN Météo";"Root entity";"Microsoft Corporation";"4.36.20714.0";"Windows";"1";"0";
+"MSN Sport";"Root entity";"Microsoft Platform Extensions";"4.36.20714.0";"Windows";"1";"0";
+"MSN Sport";"Root entity";"Microsoft Corporation";"4.36.20714.0";"Windows";"1";"0";
+"Multi-Tool 8";"Root entity";"Team MT Developers";"8.0.67";"Windows";"1";"0";
+"Narrateur";"Root entity";"Microsoft Platform Extensions";"10.0.19041.1";"Windows";"1";"0";
+"Narrateur";"Root entity";"Microsoft Corporation";"10.0.18362.449";"Windows";"1";"0";
+"NcsiUwpApp";"Root entity";"Microsoft Platform Extensions";"1000.19041.1.0";"Windows";"1";"0";
+"NetScaler Gateway Plug-in";"Root entity";"Citrix Systems, Inc.";"10.5.59.11";"Windows";"1";"0";
+"NEWT Professional 2.5.359";"Root entity";"Komodo Laboratories LLC";"2.5.359";"Windows";"1";"0";
+"Nmap 7.80";"Root entity";"Nmap Project";"7.80";"Windows";"1";"0";
+"NordVPN";"Root entity";"NordVPN";"6.30.10";"Windows";"1";"0";
+"NordVPN network TAP";"Root entity";"NordVPN";"1.0.1";"Windows";"1";"0";
+"NordVPN network TUN";"Root entity";"NordVPN";"1.0.0";"Windows";"1";"0";
+"Notepad++ (32-bit x86)";"Root entity";"Notepad++ Team";"7.8.6
+7.7.1";"Windows";"2";"0";
+"Npcap 0.93";"Root entity";"Nmap Project";"0.93";"Windows";"0";"0";
+"Npcap OEM";"Root entity";"Nmap Project";"0.9987";"Windows";"1";"0";
+"OEM Application Profile";"Root entity";"Advanced Micro Devices, Inc.";"1.00.0000";"Windows";"1";"0";
+"Office";"Root entity";"Microsoft Platform Extensions";"18.2005.1191.0
+18.2006.1031.0";"Windows";"1";"0";
+"Office";"Root entity";"Microsoft Corporation";"18.1903.1152.0";"Windows";"1";"0";
+"Office 16 Click-to-Run Extensibility Component";"Root entity";"Microsoft Corporation";"16.0.13001.20144";"Windows";"1";"0";
+"Office 16 Click-to-Run Licensing Component";"Root entity";"Microsoft Corporation";"16.0.13001.20384";"Windows";"1";"0";
+"Office 16 Click-to-Run Localization Component";"Root entity";"Microsoft Corporation";"16.0.13001.20144";"Windows";"1";"0";
+"OneNote for Windows 10";"Root entity";"Microsoft Platform Extensions";"16001.12827.20182.0
+16001.12827.20538.0";"Windows";"1";"0";
+"OneNote for Windows 10";"Root entity";"Microsoft Corporation";"16001.12827.20182.0";"Windows";"1";"0";
+"OpenShot Video Editor version 2.4.4";"Root entity";"OpenShot Studios, LLC";"2.4.4";"Windows";"1";"0";
+"OSFMount";"Root entity";"Passmark Software";"";"Windows";"1";"0";
+"osrss";"Root entity";"Microsoft Corporation";"1.0.0";"Windows";"1";"0";
+"Outil de téléchargement USB/DVD Windows 7";"Root entity";"Microsoft Corporation";"1.0.30";"Windows";"1";"0";
+"Outils de vérification linguistique 2013 de Microsoft Office - Français";"Root entity";"Microsoft Corporation";"15.0.4569.1506";"Windows";"1";"0";
+"Paint 3D";"Root entity";"Microsoft Platform Extensions";"6.2004.20027.0";"Windows";"1";"0";
+"Paint 3D";"Root entity";"Microsoft Corporation";"6.2004.20027.0";"Windows";"1";"0";
+"Paramètres";"Root entity";"Microsoft Corporation";"10.0.2.1000";"Windows";"2";"0";
+"PC-NVR";"Root entity";"";"";"Windows";"2";"0";
+"PDF24 Creator 9.1.1";"Root entity";"PDF24.org";"9.1.1";"Windows";"1";"0";
+"Pinnacle Studio 23";"Root entity";"Corel Corporation";"23.1.0.231";"Windows";"1";"0";
+"Pinnacle Studio for Dazzle";"Root entity";"Corel Corporation";"1.0.1.207";"Windows";"1";"0";
+"Pinnacle Studio for Dazzle - Install Manager";"Root entity";"Corel Corporation";"1.1.207";"Windows";"1";"0";
+"PinningConfirmationDialog";"Root entity";"Microsoft Corporation";"1000.19041.1.0
+1000.18362.449.0";"Windows";"2";"0";
+"Print 3D";"Root entity";"Microsoft Platform Extensions";"3.3.791.0";"Windows";"1";"0";
+"Print 3D";"Root entity";"Microsoft Corporation";"3.3.791.0";"Windows";"1";"0";
+"PrintDialog";"Root entity";"Microsoft Corporation";"6.2.1.0";"Windows";"2";"0";
+"Programme de résolution de l’application";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"PRTG Desktop";"Root entity";"Paessler AG";"20.4.0";"Windows";"1";"0";
+"PRTG Network Monitor";"Root entity";"Paessler AG";"20";"Windows";"1";"0";
+"PrtScr 1.7";"Root entity";"FireStarter";"";"Windows";"1";"0";
+"PuTTY release 0.73 (64-bit)";"Root entity";"Simon Tatham";"0.73.0.0";"Windows";"2";"0";
+"Python 2.7.16";"Root entity";"Python Software Foundation";"2.7.16150";"Windows";"1";"0";
+"Qualcomm Atheros Client Installation Program";"Root entity";"Qualcomm Atheros";"10.0";"Windows";"1";"0";
+"Realtek Card Reader";"Root entity";"Realtek Semiconductor Corp.";"10.0.17134.29096";"Windows";"1";"0";
+"recALL version 19.05";"Root entity";"";"19.05";"Windows";"1";"0";
+"ReNamer";"Root entity";"den4b Team";"7.1.0.0";"Windows";"1";"0";
+"RFXmngr version 19.0.0.23";"Root entity";"RFXCOM";"19.0.0.23";"Windows";"1";"0";
+"ScanSnap Home";"Root entity";"PFU Limited";"1.7.0.14";"Windows";"1";"0";
+"ScanSnap Home";"Root entity";"PFU";"1.8.1.1";"Windows";"1";"0";
+"ScanSnap Manager Evernote Edition";"Root entity";"PFU Limited";"V1.5L10";"Windows";"1";"0";
+"SD Card Formatter";"Root entity";"SD Association";"5.0.1";"Windows";"2";"0";
+"Se connecter";"Root entity";"Microsoft Corporation";"10.0.18362.449";"Windows";"1";"0";
+"Sécurité Windows";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"Security Update for Microsoft Access 2013 (KB4462210) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Excel 2013 (KB4484410) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB2910941) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB3039798) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB3162051) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB3172522) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB3213564) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB4011580) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB4022188) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB4022189) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB4484229) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Office 2013 (KB4484260) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Outlook 2013 (KB4484363) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Project 2013 (KB4484450) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Publisher 2013 (KB3162033) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Microsoft Word 2013 (KB4484446) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Security Update for Skype for Business 2015 (KB3191937) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Service Pack 1 for Microsoft Office 2013 (KB2850036) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Shell Input Application";"Root entity";"Microsoft Corporation";"1000.18362.449.0";"Windows";"1";"0";
+"SilentSetup";"Root entity";"Default Company Name";"1.0.0";"Windows";"1";"0";
+"Skype";"Root entity";"Skype";"15.61.100.0
+14.51.72.0";"Windows";"2";"0";
+"Skype version 8.58";"Root entity";"Skype Technologies S.A.";"8.58";"Windows";"1";"0";
+"Slitheris Network Discovery 1.1.290";"Root entity";"Komodo Laboratories LLC";"1.1.290";"Windows";"1";"0";
+"Slitheris Network Discovery 1.1.292";"Root entity";"Komodo Laboratories LLC";"1.1.292";"Windows";"1";"0";
+"SmartPSS 1.13.1";"Root entity";"";"1.13.1";"Windows";"2";"0";
+"Snip &amp; Sketch";"Root entity";"Microsoft Platform Extensions";"10.1907.2471.0";"Windows";"1";"0";
+"Snip &amp; Sketch";"Root entity";"Microsoft Corporation";"10.1907.2471.0";"Windows";"1";"0";
+"SP 300 Series Software Uninstall";"Root entity";"Ricoh Company Limited";"1.17.0000";"Windows";"2";"0";
+"Spotify Music";"Root entity";"Spotify AB";"1.137.690.0";"Windows";"1";"0";
+"Spybot - Search &amp; Destroy";"Root entity";"Safer-Networking Ltd.";"2.7.64.0";"Windows";"2";"0";
+"Store Experience Host";"Root entity";"Microsoft Platform Extensions";"12007.1001.2.0";"Windows";"1";"0";
+"Store Experience Host";"Root entity";"Microsoft Corporation";"12007.1001.2.0";"Windows";"1";"0";
+"StudioLine Photo Basic 4";"Root entity";"H&amp;M System Software";"4.2.46.7";"Windows";"1";"0";
+"Sublime Text 3";"Root entity";"Sublime HQ Pty Ltd";"";"Windows";"1";"0";
+"SumatraPDF";"Root entity";"Krzysztof Kowalczyk";"3.2";"Windows";"1";"0";
+"Supprimer l'appareil en toute sécurité";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"swMSM";"Root entity";"Adobe Systems, Inc";"12.0.0.1";"Windows";"1";"0";
+"Synaptics Pointing Device Driver";"Root entity";"Synaptics Incorporated";"19.0.19.63
+19.0.19.68";"Windows";"2";"0";
+"Synaptics WBF Fingerprint Reader";"Root entity";"Synaptics";"4.5.351.0";"Windows";"1";"0";
+"Synology Active Backup for Business Agent";"Root entity";"Synology";"2.1.1125";"Windows";"1";"0";
+"Synology Assistant (remove only)";"Root entity";"Synology";"6.2-24922";"Windows";"2";"0";
+"Synology Chat 1.1.1-57";"Root entity";"Synology";"1.1.1-57";"Windows";"1";"0";
+"Synology Drive Client (remove only)";"Root entity";"Synology, Inc.";"6.0.2.11078
+6.0.1.11061";"Windows";"2";"0";
+"Synology Presto Automator (remove only)";"Root entity";"Synology, Inc.";"2.0.1.0335";"Windows";"1";"0";
+"Synology Surveillance Station Client";"Root entity";"Synology";"1.2.8.0981
+1.2.7.0775
+1.2.9.1082";"Windows";"2";"0";
+"TeamViewer";"Root entity";"TeamViewer";"15.0.8397";"Windows";"1";"0";
+"TeraCopy version 3.26";"Root entity";"Code Sector";"3.26";"Windows";"1";"0";
+"Toolkit Documentation";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"UDK Package";"Root entity";"Microsoft Corporation";"10.0.19041.1";"Windows";"1";"0";
+"Update for Microsoft InfoPath 2013 (KB3114946) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft InfoPath 2013 (KB4022181) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB2760344) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB2760371) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB2883095) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB2889863) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB2899522) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3023049) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3023052) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3039701) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3039756) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3039766) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3039778) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3039795) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3054819) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3054856) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3085565) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3085587) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3101503) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3114488) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3114499) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3127916) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3172471) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3172473) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3172523) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3172533) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3172545) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3178640) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3191872) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB3213536) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4011155) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4011677) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4018378) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4022212) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4092455) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4462200) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4475562) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4484356) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Office 2013 (KB4484442) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft OneDrive for Business (KB4022226) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft OneNote 2013 (KB4011281) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Outlook Social Connector 2013 (KB3054854) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft PowerPoint 2013 (KB4484349) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Visio Viewer 2013 (KB2817301) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Microsoft Word 2013 (KB3162081) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Skype for Business 2015 (KB4484289) 64-Bit Edition";"Root entity";"Microsoft";"";"Windows";"1";"0";
+"Update for Windows 10 for x64-based Systems (KB4023057)";"Root entity";"Microsoft Corporation";"2.63.0.0";"Windows";"2";"0";
+"Update for Windows 10 for x64-based Systems (KB4480730)";"Root entity";"Microsoft Corporation";"2.53.0.0
+2.51.0.0";"Windows";"2";"0";
+"UpdateAssistant";"Root entity";"Microsoft Corporation";"1.24.0.0
+1.20.0.0";"Windows";"2";"0";
+"USBPcap 1.3.0.0";"Root entity";"Tomasz Mon";"1.3.0.0";"Windows";"1";"0";
+"User State Migration Tool";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"VdhCoApp 1.3.0";"Root entity";"DownloadHelper";"";"Windows";"1";"0";
+"Visionneuse 3D";"Root entity";"Microsoft Platform Extensions";"7.2004.20022.0";"Windows";"1";"0";
+"Visionneuse 3D";"Root entity";"Microsoft Corporation";"7.2004.20022.0";"Windows";"1";"0";
+"Visionneuse web de l’application de bureau";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"VLC media player";"Root entity";"VideoLAN";"3.0.10
+3.0.8";"Windows";"2";"0";
+"Votre compte";"Root entity";"Microsoft Corporation";"10.0.19041.1
+10.0.18362.449";"Windows";"2";"0";
+"vReveal";"Root entity";"MotionDSP";"";"Windows";"1";"0";
+"VueScan x64";"Root entity";"Hamrick Software";"9.7.28";"Windows";"1";"0";
+"WakeOnLan v3.9.7";"Root entity";"Dipisoft";"3.9.7";"Windows";"1";"0";
+"Web Companion";"Root entity";"Lavasoft";"6.0.2270.4122";"Windows";"1";"0";
+"Web Media Extensions";"Root entity";"Microsoft Platform Extensions";"1.0.20875.0";"Windows";"1";"0";
+"Web Media Extensions";"Root entity";"Microsoft Corporation";"1.0.20875.0";"Windows";"1";"0";
+"Win32DiskImager version 1.0.0";"Root entity";"ImageWriter Developers";"1.0.0";"Windows";"1";"0";
+"Windows 7 USB/DVD Download Tool";"Root entity";"Microsoft Corporation";"1.0.30";"Windows";"1";"0";
+"Windows Alarms &amp; Clock";"Root entity";"Microsoft Platform Extensions";"10.2005.1675.0";"Windows";"1";"0";
+"Windows Alarms &amp; Clock";"Root entity";"Microsoft Corporation";"10.2005.1675.0";"Windows";"1";"0";
+"Windows Calculator";"Root entity";"Microsoft Platform Extensions";"10.2005.23.0";"Windows";"1";"0";
+"Windows Calculator";"Root entity";"Microsoft Corporation";"10.2005.23.0";"Windows";"1";"0";
+"Windows Camera";"Root entity";"Microsoft Platform Extensions";"2020.504.40.0";"Windows";"1";"0";
+"Windows Camera";"Root entity";"Microsoft Corporation";"2019.821.30.0";"Windows";"1";"0";
+"Windows Defender SmartScreen";"Root entity";"Microsoft Corporation";"1000.19041.1.0
+1000.18362.449.0";"Windows";"2";"0";
+"Windows Deployment Customizations";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"Windows Deployment Tools";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"Windows Driver Package - MylapsSportTiming (usbser) Ports (03/27/2018 1.1.0)";"Root entity";"MylapsSportTiming";"03/27/2018 1.1.0";"Windows";"1";"0";
+"Windows Feature Experience Pack";"Root entity";"Microsoft Corporation";"120.2202.130.0";"Windows";"1";"0";
+"Windows Maps";"Root entity";"Microsoft Platform Extensions";"10.2003.15.0
+10.2005.1.0";"Windows";"1";"0";
+"Windows Maps";"Root entity";"Microsoft Corporation";"10.2006.11.0";"Windows";"1";"0";
+"Windows PE x86 x64";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"Windows PE x86 x64 wims";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"Windows Search";"Root entity";"Microsoft Corporation";"1.14.0.19041
+1.13.0.18362";"Windows";"2";"0";
+"Windows System Image Manager on amd64";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"Windows Voice Recorder";"Root entity";"Microsoft Platform Extensions";"10.2005.1672.0";"Windows";"1";"0";
+"Windows Voice Recorder";"Root entity";"Microsoft Corporation";"10.2005.1672.0";"Windows";"1";"0";
+"WinMerge 2.16.0.0 x64";"Root entity";"Thingamahoochie Software";"2.16.0.0";"Windows";"1";"0";
+"WinMerge 2.16.4.0 x64";"Root entity";"Thingamahoochie Software";"2.16.4.0";"Windows";"1";"0";
+"WinSCP 5.15.9";"Root entity";"Martin Prikryl";"5.15.9";"Windows";"1";"0";
+"WinSCP 5.17.6";"Root entity";"Martin Prikryl";"5.17.6";"Windows";"1";"0";
+"WinToUSB version 3.2";"Root entity";"The EasyUEFI Development Team.";"3.2";"Windows";"1";"0";
+"Wireshark 3.0.5 64-bit";"Root entity";"The Wireshark developer community, https://www.wireshark.org";"3.0.5";"Windows";"1";"0";
+"Wondershare Helper Compact 2.5.2";"Root entity";"Wondershare";"2.5.2";"Windows";"1";"0";
+"Wondershare PDFelement 6 Pro(Build 6.8.9)";"Root entity";"Wondershare Software Co.,Ltd.";"6.8.9.4193";"Windows";"1";"0";
+"WPT Redistributables";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"WPTx64";"Root entity";"Microsoft";"8.59.25584";"Windows";"1";"0";
+"Xbox Console Companion";"Root entity";"Microsoft Platform Extensions";"48.67.14001.0";"Windows";"1";"0";
+"Xbox Console Companion";"Root entity";"Microsoft Corporation";"48.67.14001.0";"Windows";"1";"0";
+"Xbox Game Bar";"Root entity";"Microsoft Platform Extensions";"5.320.6242.0";"Windows";"1";"0";
+"Xbox Game Bar";"Root entity";"Microsoft Corporation";"5.120.3171.0";"Windows";"1";"0";
+"Xbox Game Bar Plugin";"Root entity";"Microsoft Platform Extensions";"1.54.4001.0";"Windows";"1";"0";
+"Xbox Game Bar Plugin";"Root entity";"Microsoft Corporation";"1.49.24004.0";"Windows";"1";"0";
+"Xbox Game Speech Window";"Root entity";"Microsoft Platform Extensions";"1.21.13002.0";"Windows";"1";"0";
+"Xbox Game Speech Window";"Root entity";"Microsoft Corporation";"1.21.13002.0";"Windows";"1";"0";
+"Xbox Game UI";"Root entity";"Microsoft Corporation";"1000.19041.1.0
+1000.18362.449.0";"Windows";"2";"0";
+"Xbox Identity Provider";"Root entity";"Microsoft Platform Extensions";"12.64.28001.0
+12.67.21001.0";"Windows";"1";"0";
+"Xbox Identity Provider";"Root entity";"Microsoft Corporation";"12.58.1001.0";"Windows";"1";"0";
+"Xbox TCUI";"Root entity";"Microsoft Platform Extensions";"1.24.10001.0";"Windows";"1";"0";
+"Xbox TCUI";"Root entity";"Microsoft Corporation";"1.24.10001.0";"Windows";"1";"0";
+"Your Phone";"Root entity";"Microsoft Platform Extensions";"1.20071.92.0
+1.20071.95.0";"Windows";"1";"0";
+"Your Phone";"Root entity";"Microsoft Corporation";"1.20071.92.0";"Windows";"1";"0";
