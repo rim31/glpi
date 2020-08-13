@@ -1,0 +1,3 @@
+﻿"Nom";"Entité";"Statut";"Fabricant";"Numéro de série";"Type";"Modèle";"Système d'exploitation - Nom";"Lieu";"Dernière modification";"Composants - Processeur";
+"Elitebook850";"Root entity";"";"Hewlett-Packard";"5CG5074KD3";"Notebook";"HP EliteBook 850 G1";"Windows";"";"2020-07-26 19:53";"Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz";
+"Probook450G0";"Root entity";"";"Hewlett-Packard";"2CE3310SW8";"Notebook";"HP ProBook 450 G0";"Windows";"";"2020-07-25 03:38";"Intel(R) Celeron(R) CPU 1000M @ 1.80GHz";
