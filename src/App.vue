@@ -62,7 +62,7 @@
       </footer>
     </div>
     <!-- <UploadCSV msg="monitoring" /> -->
-    <Charts />
+    <!-- <Charts /> -->
     <!--<Graph />-->
   </div>
 </template>
